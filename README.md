@@ -1,5 +1,6 @@
 
-C++ Tic Tac Toe Game
+**C++ Tic Tac Toe Game**
+
 This is a simple console-based implementation of the classic Tic Tac Toe game in C++. The game provides a two-player experience where players take turns to make their moves on a 3x3 grid. The objective is to be the first player to complete a row, column, or diagonal with their symbol (X or O).
 
 Features
